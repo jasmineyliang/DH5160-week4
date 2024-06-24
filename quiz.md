@@ -1,3 +1,5 @@
+# Choose 10 questions that you like for the quizzes.
+
 # ex.1
 Create two variables a and b, and initially set them each to a different number. Write a program that swaps both values.
 
